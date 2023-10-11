@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365317921352",
+    "project_id": "firebasadatabaeapp",
+    "storage_bucket": "firebasadatabaeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365317921352:android:46f42305477502d092167d",
+        "android_client_info": {
+          "package_name": "com.firebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365317921352-lm733cghi36mrerhn4925sq74cbqs0m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmqXUSUMcqpVgiW08FbP17iYTuF3i6Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365317921352-lm733cghi36mrerhn4925sq74cbqs0m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
